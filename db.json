@@ -20,7 +20,7 @@
 {"id":19,"full_name":"name19","birthday":"Jan 19, 2000","homeAddress":"address19","job":"job19","gender":"male","username":9.11223344E8,"email":"email19@gmail.com","password":"pass19","permission":1,"active":0},
 {"id":20,"full_name":"name20","birthday":"Jan 20, 2000","homeAddress":"address20","job":"job20","gender":"male","username":9.11223344E8,"email":"email20@gmail.com","password":"pass20","permission":1,"active":0}]
 
-  "photos": [
+ , "photos": [
   {
     "albumId": 1,
     "id": 1,
