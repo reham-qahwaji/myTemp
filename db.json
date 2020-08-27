@@ -1,5 +1,5 @@
 {
-  "users":[{"id":1,"full_name":"name1","birthday":"Jan 1, 2000","homeAddress":"address1","job":"job1","gender":"male","username":9.11223344E8,"email":"email1@gmail.com","password":"pass1","permission":1,"active":0},
+  "users": [{"id":1,"full_name":"name1","birthday":"Jan 1, 2000","homeAddress":"address1","job":"job1","gender":"male","username":9.11223344E8,"email":"email1@gmail.com","password":"pass1","permission":1,"active":0},
 {"id":2,"full_name":"name2","birthday":"Jan 2, 2000","homeAddress":"address2","job":"job2","gender":"male","username":9.11223344E8,"email":"email2@gmail.com","password":"pass2","permission":1,"active":0},
 {"id":3,"full_name":"name3","birthday":"Jan 3, 2000","homeAddress":"address3","job":"job3","gender":"male","username":9.11223344E8,"email":"email3@gmail.com","password":"pass3","permission":1,"active":0},
 {"id":4,"full_name":"name4","birthday":"Jan 4, 2000","homeAddress":"address4","job":"job4","gender":"male","username":9.11223344E8,"email":"email4@gmail.com","password":"pass4","permission":1,"active":0},
@@ -20,7 +20,7 @@
 {"id":19,"full_name":"name19","birthday":"Jan 19, 2000","homeAddress":"address19","job":"job19","gender":"male","username":9.11223344E8,"email":"email19@gmail.com","password":"pass19","permission":1,"active":0},
 {"id":20,"full_name":"name20","birthday":"Jan 20, 2000","homeAddress":"address20","job":"job20","gender":"male","username":9.11223344E8,"email":"email20@gmail.com","password":"pass20","permission":1,"active":0}]
 
-"photos":[
+  "photos": [
   {
     "albumId": 1,
     "id": 1,
@@ -70,5 +70,4 @@
     "url": "https://via.placeholder.com/600/b0f7cc",
     "thumbnailUrl": "https://via.placeholder.com/150/b0f7cc"
   }]
-
 }
